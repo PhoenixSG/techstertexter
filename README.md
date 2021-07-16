@@ -1,4 +1,4 @@
-# techstertexter
+# Techster Texter
 This repo is for outlining the main tasks which I have as a part of SOC-21, in the project- Techster Texter.
 
 We all started with doing an introductory course to android app development on coursera- https://www.coursera.org/learn/android-app, where we learnt about creating the basic aspects of an app. I completed the course in the scheduled time and you can find the final app created and certificate in the repo.
@@ -10,4 +10,6 @@ Then we went on to learning about firebase and how to connect our app to the dat
 
 For just practice of the API part, I also created a simple android app showing weather of the city you enter the name of. This used a free API provided online. Again, code can be found in the repo.
 
-Currently, I am working adding a new feature of group poll in the app.  
+Currently, I am working adding a new feature of group poll in the app.
+
+Shashwat Garg
